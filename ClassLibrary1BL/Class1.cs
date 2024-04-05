@@ -8,5 +8,10 @@ namespace ClassLibrary1BL
         {
             return true;
         }
+        public bool Hi()
+        {
+            return false;
+        }
+
     }
 }
